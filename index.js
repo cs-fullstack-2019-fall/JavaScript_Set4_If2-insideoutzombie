@@ -12,6 +12,8 @@ if (total <= 21) {
 } else if (total >= 21) {
     alert("BUST!");
 }
+// SO CLOSE make sure you read the directions!
+// If the sum equals 21 print BLACKJACK!
 
 // Exercise 11
 // Ask the user to enter their grade. Print their letter grade:
